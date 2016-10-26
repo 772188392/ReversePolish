@@ -11,7 +11,7 @@ namespace ConsoleApplication2
     {
 
         static void Main(string[] args)
-        {
+        { 
             string str = "sdfsafsd";
             Library_Calculate.Calculate cal = new Library_Calculate.Calculate();
             Library_Calculate.Operate_Add cal_add = new Library_Calculate.Operate_Add();
