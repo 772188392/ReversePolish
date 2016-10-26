@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "逆波兰公式", "ConsoleApplication2\逆波兰公式.csproj", "{6CA049CF-A77B-4B56-9AB4-64A61F372B21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "逆波兰公式", "逆波兰公式推导\逆波兰公式.csproj", "{6CA049CF-A77B-4B56-9AB4-64A61F372B21}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_Calculate", "Library_Calculate\Library_Calculate.csproj", "{6F7EF8E2-8205-4A47-8112-506229E3B041}"
 EndProject
